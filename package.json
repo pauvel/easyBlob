@@ -1,0 +1,24 @@
+{
+  "name": "easyblob",
+  "version": "1.0.0",
+  "description": "Convert a blob to a base64 string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauvel/easyBlob.git"
+  },
+  "keywords": [
+    "blob",
+    "base64",
+    "convert"
+  ],
+  "author": "pauvel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauvel/easyBlob/issues"
+  },
+  "homepage": "https://github.com/pauvel/easyBlob#readme"
+}
