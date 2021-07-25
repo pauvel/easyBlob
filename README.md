@@ -24,3 +24,10 @@ btnTob64.addEventListener('click', async (e) => {
     console.log(myB64);
 });
 ```
+## Installation
+
+Install easyblob with npm
+
+```bash
+  npm i easyblob
+```
