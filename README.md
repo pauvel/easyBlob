@@ -26,6 +26,16 @@ document.getElementById('fileInput').addEventListener('change', async (event) =>
     }
 });
 ```
+
+```javascript
+// ESM Node.js
+import { blobToBase64 } from 'easyblob';
+```
+
+```javascript
+// CommonJS
+const { blobToBase64 } = require('easyblob');
+```
 ## Installation
 
 Install easyblob with npm

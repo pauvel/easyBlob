@@ -1,6 +1,6 @@
 {
   "name": "easyblob",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Convert a blob to a base64 string.",
   "main": "index.js",
   "scripts": {
